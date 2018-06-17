@@ -42,7 +42,7 @@
     <maven.plugin.api.version>3.0</maven.plugin.api.version>
     <aether.version>1.12</aether.version>
     <maven.aeither.provider.version>3.0.3</maven.aeither.provider.version>
-    <wagon.version>1.0</wagon.version>
+    <wagon.version>2.12</wagon.version>
     <jline.version>2.12.1</jline.version>
 
     <!--plugin versions-->
@@ -140,7 +140,7 @@
     <dependency>
       <groupId>org.bouncycastle</groupId>
       <artifactId>bcpkix-jdk15on</artifactId>
-      <version>1.52</version>
+      <version>1.56</version>
     </dependency>
 
     <dependency>
