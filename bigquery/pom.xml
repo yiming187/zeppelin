@@ -34,13 +34,13 @@
   <name>Zeppelin: BigQuery interpreter</name>
 
   <properties>
-    <project.http.version>1.21.0</project.http.version>
+    <project.http.version>1.24.1</project.http.version>
     <project.oauth.version>1.21.0</project.oauth.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <bigquery.test.exclude>**/BigQueryInterpreterTest.java</bigquery.test.exclude>
 
     <!-- library versions -->
-    <bigquery.api.version>v2-rev265-1.21.0</bigquery.api.version>
+    <bigquery.api.version>v2-rev397-1.24.1</bigquery.api.version>
     <gson.version>2.6</gson.version>
     <interpreter.name>bigquery</interpreter.name>
   </properties>
