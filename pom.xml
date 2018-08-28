@@ -88,7 +88,7 @@
   <properties>
     <!-- language versions -->
     <java.version>1.8</java.version>
-    <scala.version>2.10.5</scala.version>
+    <scala.version>2.10.7</scala.version>
     <scala.binary.version>2.10</scala.binary.version>
     <scalatest.version>2.2.4</scalatest.version>
     <scalacheck.version>1.12.5</scalacheck.version>
@@ -732,7 +732,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore></ignore>
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
@@ -751,7 +751,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <scala.version>2.10.5</scala.version>
+        <scala.version>2.10.7</scala.version>
         <scala.binary.version>2.10</scala.binary.version>
       </properties>
     </profile>
@@ -759,7 +759,7 @@
     <profile>
       <id>scala-2.11</id>
       <properties>
-        <scala.version>2.11.8</scala.version>
+        <scala.version>2.10.7</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
       </properties>
     </profile>
