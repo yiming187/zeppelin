@@ -36,15 +36,15 @@
 
   <properties>
     <!--library versions-->
-    <hadoop.version>2.7.3</hadoop.version>
+    <hadoop.version>3.0.0</hadoop.version>
     <commons.lang3.version>3.4</commons.lang3.version>
-    <jackrabbit.webdav.version>1.5.2</jackrabbit.webdav.version>
+    <jackrabbit.webdav.version>2.1.0</jackrabbit.webdav.version>
     <quartz.scheduler.version>2.2.1</quartz.scheduler.version>
     <lucene.version>5.3.1</lucene.version>
     <org.reflections.version>0.9.8</org.reflections.version>
     <xml.apis.version>1.4.01</xml.apis.version>
     <frontend.maven.plugin.version>1.3</frontend.maven.plugin.version>
-    <aws.sdk.s3.version>1.10.62</aws.sdk.s3.version>
+    <aws.sdk.s3.version>1.11.453</aws.sdk.s3.version>
     <!--test library versions-->
     <google.truth.version>0.27</google.truth.version>
     <google.testing.nio.version>0.32.0-alpha</google.testing.nio.version>
@@ -254,7 +254,7 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-compress</artifactId>
-      <version>1.5</version>
+      <version>1.18</version>
     </dependency>
 
   </dependencies>
