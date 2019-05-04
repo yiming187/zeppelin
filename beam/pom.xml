@@ -33,8 +33,8 @@
   <name>Zeppelin: Beam interpreter</name>
   
   <properties>
-    <beam.hadoop.version>2.3.0</beam.hadoop.version>
-    <beam.spark.version>1.6.2</beam.spark.version>
+    <beam.hadoop.version>2.5.2</beam.hadoop.version>
+    <beam.spark.version>2.2.0</beam.spark.version>
     <beam.beam.version>2.0.0</beam.beam.version>
 
     <!-- library versions -->
