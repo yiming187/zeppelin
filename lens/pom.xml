@@ -41,7 +41,7 @@
     <checkerframework.jdk7.version>1.9.1</checkerframework.jdk7.version>
     <jackson.asl.version>1.9.13</jackson.asl.version>
     <jackson.version>1.9.11</jackson.version>
-    <jersey.core.version>2.3.1</jersey.core.version>
+    <jersey.core.version>2.6</jersey.core.version>
   </properties>
 
   <dependencies>
