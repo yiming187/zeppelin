@@ -38,7 +38,7 @@
     <interpreter.name>scio</interpreter.name>
     <!--library versions-->
     <scio.version>0.2.4</scio.version>
-    <guava.version>14.0.1</guava.version> <!-- update needed -->
+    <guava.version>30.0-android</guava.version> <!-- update needed -->
     <scio.scala.version>${scala.2.10.version}</scio.scala.version>
     <scio.scala.binary.version>2.10</scio.scala.binary.version>
 
